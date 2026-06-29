@@ -65,5 +65,9 @@ local repo so that we again edit it on another system taking it from remote repo
 to geting  the repo on git hub to our local system is called as git clone 
 step1-open your git hub repo
 step2-click on green code button
-step3-
+step3-now there are two ways to clone the repo 
+1-HTTPS URL
+2-SSH URL
+1-copy the https url and run this command terminal -git cloe https_url in the folder on which you want to colne the file 
+after colning verify which remote it is connected by using command-git remote -v
 
